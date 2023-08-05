@@ -1,0 +1,22 @@
+# NAME: Emby_Filter
+# AUTHOR: LucaLin233
+# 关键字匹配
+DOMAIN-KEYWORD,emby
+
+#卷毛鼠公益服
+DOMAIN-KEYWORD,jmsooo.com
+
+#卡戎影视
+DOMAIN-SUFFIX,play.charontv.com
+
+#终点站
+DOMAIN-KEYWORD,emby.wtf
+
+#莫高雷
+DOMAIN-KEYWORD,mgl.gay
+
+#纸片人小站
+DOMAIN-SUFFIX,embyplus.org
+
+TreeDiagram
+DOMAIN-SUFFIX,789.123456.al
